@@ -6,7 +6,7 @@ import SignUpPage from './pages/SignUpPage';
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/mystic-quests">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/login" element={<LoginPage />} />
