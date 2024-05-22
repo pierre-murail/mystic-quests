@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mystic-quests/static/css/main.6ead3e0c.css",
+    "main.js": "/mystic-quests/static/js/main.868bc3d5.js",
+    "static/media/logo.png": "/mystic-quests/static/media/logo.3504bace125330d34593.png",
+    "static/media/background.webp": "/mystic-quests/static/media/background.8b8e0d93d592434d6599.webp",
+    "index.html": "/mystic-quests/index.html",
+    "main.6ead3e0c.css.map": "/mystic-quests/static/css/main.6ead3e0c.css.map",
+    "main.868bc3d5.js.map": "/mystic-quests/static/js/main.868bc3d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ead3e0c.css",
+    "static/js/main.868bc3d5.js"
+  ]
+}
